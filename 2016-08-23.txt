@@ -1,0 +1,59 @@
+Approaches:
+  - developed with mobile first approach in mind
+  - mockups in advance of development - @Irina 
+
+1) Front page
+  - a clear message who we are and what we do
+    - something catchy and funny, 3-4 words about what do we do
+    - e.g. "Survive the Finnish winter with coding" / "Collaborate, Learn, Code"
+  - design approach ideas:
+    1) a regular "engineering-style" bootstrap page - @Irina makes a mockup
+    2) a more artistic approach - @Ali's idea, mockup and/or demo application - either with or without one page design
+    3) arrows on left/right/bottom which the users can click to navigate - @Irina's idea 
+  - a nice logo - @Ali prepares and shares some of them with us on the next meeting
+    - a bigger one and a more compact one
+    - the logo in the navigation has to take the user back to the main page
+  - colors:
+    - in the first iteration the same green color as FCC
+    - later can be extended with other themes
+  - one page design
+  - technologies:
+      - bootstrap - maybe using a free template
+      - HTML
+      - later AngularJS? 
+  - Actors
+    - Visitor
+    - User: a FCC HKI member who has login credentials to the site
+  - user stories:
+    - As a Visitor and User...
+      - I can see the logo and the motto of FCC Helsinki.
+      - I can see the social media links to FCC Helsinki.
+      - I can see the calendar of events.
+      - I can see add the events from the site to my Google calendar. 
+      - I can see a short summary what FCC HKI is about. 
+      - I can make contact to the community who maintains this site. 
+      - I can see the public profiles of the members who contributed to this webpage.
+  - use case diagram - @Usman
+  - login + registration - is it restricted? Who can register? Can they use the same credentials as on FCC.com? What do they by registering?  
+
+2) Features
+  - links to our (FCC HKI) social media page(s)
+  - upcoming meetings, events
+  - ongoing projects
+  - links to other FCC communities 
+  - more themes? 
+  Questions:
+    - did any other countries / FCC communities did this before? - Tiia researches (maybe contact someone at FCC HQ)
+      - domain from freecodecamp.com (e.g. email address info@helsinki.freecodecamp.com; webpage: helsinki.freecodecamp.com)?
+3) About us / who we are + profile
+  - an group photo of us where users can hover on people - might be hard to maintain 
+  - when hovering on the person a profile page could open 
+  - members could have a profile page where they share some information about themselves  
+  
+Conclusion / for next meeting: 
+  - we agreed to plan plan the above in more details
+  - we would need access to FCC HKI github - needs approval from @Omid
+  - we will do the mockups as agreed until the next meeting @Ali, @Irina
+  - Use case diagram @Usman
+  - max 10 minute presentation about Mobile First approach in practice @Tiia
+  - some material/presentation about git @Peter
