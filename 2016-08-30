@@ -1,0 +1,49 @@
+@Ali displays his progress on the FCC Helsinki logo
+ - there are 4-5 different options we take a look at
+ - all of them are candidates for the page
+ - they are all nice and the job was very well done
+ - we would need to share these - @Ali please upload these to the brain-storming github repository (maybe under /logos folder)
+  - the next step would be that we give feedback, improve and decide
+ - @Peter suggests to use SVG format instead of PNG
+  - @Ali says he is not familiar with it
+  - can anyone assist him to get started? @Irina maybe? 
+We take a look at the mockup made by @Irina
+ - we all like the clarity and the mockup as it is done
+ - it clearly forwards the vision and our idea in general
+ - we don't think that anything was missed, this can be the first version mockup of the page
+ - this mockup should be extended with 
+   - a Functional specification document (what does what, how things work, what users can do, use cases etc.)
+   - potentially a technical overview (what technologies we are planning to use etc.)
+   - these are ideally done before doing any implementation - good topic for the next meeting 
+ - we would be interested in the progress how this was done (what tools were utilized etc.) - @Irina could you share this with us in the next meeting maybe? :) 
+ - @Irina please share this through the brain-storming github repository (maybe under /mockups folder)
+ - would it be possible to have a similar image optimized for mobile phones?
+@Tiia presents mobile first in practice
+ - @Tiia please share your notes through the brain-storming git repository (e.g. under folder /research)
+ - we identify that simplicity with such approach is essential
+ - mobile devices are in focus during the development and testing
+ - the worst thing what can happen in this approach is that the desktop version of the website looks "childish" - we will need to pay attention to that
+ - we agreed to go with this approach and put our minds to it during future development
+ - we agree that this facilitates of @Irina's work above
+@Kate suggests to choose a development approach/principle
+ - TDD - Test Driven Development?
+ - BDD - Behavior Driven Development?
+ - SRUM?
+ - @Peter refers to the meeting from two weeks back in Flux - we discussed shortly about this
+ - good topic next time
+
+Next meeting:
+ - in Aalto Business School near Kamppi
+  - @Kate books
+  - a poll will be published on Facebook about the date @Kate
+ - we will look into the functional specifications in more details 
+  - this would be a document around 5 pages describing what is possible on the site
+  - use cases
+  - mockups included
+  - user stories
+  - the idea is to bring everyone on the same level of understanding and keep it for future reference
+ - we will start the website (to its very first version at least)
+  - we would need a separate reposity for this in github - @Peter can create it, but in case not @Omid can help
+ - if there is time we discuss what tools and approaches we use
+  - Trello, Github, something else? 
+  - TDD, Scrum? is any of these frameworks suitable?
